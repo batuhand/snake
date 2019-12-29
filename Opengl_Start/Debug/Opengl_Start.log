@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': makro yeniden tanımlama
+  d:\computergraphics\snakegame\sanke\packages\nupengl.core.0.1.0.1\build\native\include\glfw\glfw3.h(92): note: önceki 'APIENTRY' tanımına bakın
+d:\computergraphics\snakegame\sanke\opengl_start\source\main.cpp(155): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Opengl_Start.vcxproj -> D:\ComputerGraphics\SnakeGame\Sanke\Debug\Opengl_Start.exe
